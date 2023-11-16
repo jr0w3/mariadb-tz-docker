@@ -47,7 +47,3 @@ This Docker Compose configuration sets up a MariaDB container with time zone sup
 ## Health Check
 
 The container includes a health check using the `/usr/local/bin/healthcheck.sh` script. It checks the database connection and retries if needed.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
